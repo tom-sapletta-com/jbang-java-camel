@@ -56,3 +56,35 @@ run
 ```bash
 jbang hellocli.java
 ```
+
+
+# Jbang Groovy
+
+
+```bash
+jbang jdk list
+```
+
+```bash
+jbang jdk default 17
+```
+
+```bash
+jbang init -t hello.groovy hello.groovy
+```
+
+
+```bash
+jbang hello.groovy
+```
+
+run
+```bash
+jbang --groovy 5 hello.groovy
+```
+
+```
+jbang groovy install 5
+```
+
+
