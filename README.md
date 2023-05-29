@@ -60,6 +60,8 @@ jbang hellocli.java
 
 # Jbang Groovy
 
++ [Usage :: JBang](https://www.jbang.dev/documentation/guide/latest/usage.html#running-groovy-groovy-experimental)
+
 
 ```bash
 jbang jdk list
